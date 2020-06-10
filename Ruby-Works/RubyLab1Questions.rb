@@ -1,3 +1,12 @@
+puts " Helloooo "
+
+
+/Question 5/
+
+
+
+
+/Question 4/
 class Person
 def set_name( aName ) 
 @name = aName
@@ -33,7 +42,7 @@ puts person1.get_age
 
 
 
-
+/Question 3/
 print ("Enter your price:")
 taxrate = 0.21
 itemprice = gets()
@@ -41,5 +50,5 @@ taxprice = itemprice * taxrate
 puts " Tax due on €#{itemprice} is €#{taxprice}, so the overall price will
 be €#{itemprice+taxprice} " 
 
-
+/Question 2/
 puts ("\n\t#{(1+2)*3}\nGoodbye") 
